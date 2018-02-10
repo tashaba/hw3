@@ -1,0 +1,9 @@
+
+
+
+
+for (var x=0; x<width; x=x+10) {
+  line(x,0,x,x+10);
+  
+}
+

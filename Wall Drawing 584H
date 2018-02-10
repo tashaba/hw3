@@ -1,0 +1,27 @@
+
+
+background(0,0,0);
+
+var c = color(129, 120,128);
+fill (c);
+strokeWeight(0); 
+stroke(51);
+rect(4,4, 168, 168); 
+
+var c = color(70, 185, 70);
+fill(c); 
+strokeWeight(0); 
+stroke(51);
+rect(168,4, 168, 170); 
+
+var c = color(201, 204, 207);
+fill(c); 
+strokeWeight(0); 
+stroke(51);
+rect(4,168, 166, 168); 
+
+var c = color(255, 153, 0);
+fill(c); 
+strokeWeight(0); 
+stroke(51);
+rect(168,168, 168, 168); 
